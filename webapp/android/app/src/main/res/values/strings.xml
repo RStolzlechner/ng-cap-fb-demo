@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ng-cap-fb-demo</string>
+    <string name="title_activity_main">ng-cap-fb-demo</string>
+    <string name="package_name">at.tauerntec.demo</string>
+    <string name="custom_url_scheme">at.tauerntec.demo</string>
+</resources>
