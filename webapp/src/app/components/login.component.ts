@@ -5,7 +5,7 @@ import { Router } from '@angular/router';
 
 @Component({
   selector: 'login-component',
-  template: `<button (click)="logIn()">Log In</button>`,
+  template: `<button class="m-8" (click)="logIn()">Log In</button>`,
   imports: [CommonModule],
 })
 export class LoginComponent {
